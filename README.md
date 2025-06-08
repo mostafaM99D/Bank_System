@@ -2,6 +2,8 @@
 
 A comprehensive console-based banking management system built with C++ that handles client accounts, user management, and financial transactions with robust permission controls.
 
+The project data base is I/O stream.
+
 ## ✨ Features
 
 ### 👥 Client Management
